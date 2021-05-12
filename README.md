@@ -9,7 +9,7 @@ Here are some code examples of generative models, which are implemented with Ten
 ## Deep Dream
 | original image | dreamt image | dreamt image with octave | dreamt image with scaling tiled and octave|
 |:--------------:|:------------:|:------------------------:|:--------------------------------:|
-|<img src='img/hamster.jpg' width='200'>|<img src='result/deep dream/deep_dream.jpg' width='200'>|<img src='result/deep dream/deep_dream_octave.jpg' width='200'>|<img src='result/deep dream/deep_dream_tiled.jpg' width='200'>|
+|<img src='img/hamster.jpg' style="width:200px;">|<img src='result/deep dream/deep_dream.jpg' style="width:200px;">|<img src='result/deep dream/deep_dream_octave.jpg' style="width:200px;">|<img src='result/deep dream/deep_dream_tiled.jpg' style="width:200px;">|
 
 ## GAN
 | DCGAN | WGAN | WGAN_GP |
