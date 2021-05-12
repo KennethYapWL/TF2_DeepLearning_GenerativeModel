@@ -15,10 +15,9 @@ Here are some code examples of generative models, which are implemented with Ten
 </div>
 
 ## GAN
-|   | DCGAN | WGAN | WGAN_GP |
-|:-:|:-----:|:----:|:-------:|
-| Final Image |![GAN](result/DCGAN_CelebA/final%20result/image_epoch_%20500.png)|![GAN](result/WGAN_CelebA/final%20result/image_epoch_%20500.png)|![GAN](result/WGAN_GP_CelebA/final%20result/image_epoch_%20500.png)|
-| Training Gif |![GAN](result/DCGAN_CelebA/gifs/dcgan.gif)|![GAN](result/WGAN_CelebA/gifs/wgan.gif)|![GAN](result/WGAN_GP_CelebA/gifs/wgan.gif)|
+| DCGAN | WGAN | WGAN_GP |
+|:-----:|:----:|:-------:|
+|![GAN](result/DCGAN_CelebA/final%20result/image_epoch_%20500.png)|![GAN](result/WGAN_CelebA/final%20result/image_epoch_%20500.png)|![GAN](result/WGAN_GP_CelebA/final%20result/image_epoch_%20500.png)|
 
 ## Pix2Pix
 | Input Images  | Predicted Image |
