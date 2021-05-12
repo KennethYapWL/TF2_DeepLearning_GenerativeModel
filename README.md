@@ -40,6 +40,8 @@ Here are some code examples of generative models, which are implemented with Ten
 
 * **Pix2Pix**
   * https://www.tensorflow.org/tutorials/generative/pix2pix
+
+
 <style>
     .table_div table > td {
         width: 25%;
