@@ -4,7 +4,7 @@ Here are some code examples of generative models, which are implemented with Ten
 ## Neural Style Transfer
 | content image | style image | style transfer without variation loss | style transfer with variation loss|
 |:-------------:|:-----------:|:-------------------------------------:|:--------------------------------:|
-|<img src='img/hamster.jpg' width='200'>|<img src='img/style transfer/candy.jpg' width='200'>|<img src='result/style transfer/img_with_vl.jpg' width='200'>|
+|<img src='img/hamster.jpg' width='200'>|<img src='img/style transfer/candy.jpg' width='200'>|<img src='result/style transfer/img_without_vl.jpg' width='200'>|<img src='result/style transfer/img_with_vl.jpg' width='200'>|
 
 ## Deep Dream
 | original image | dreamt image | dreamt image with octave | dreamt image with scaling tiled and octave|
