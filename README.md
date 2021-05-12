@@ -4,15 +4,12 @@ Here are some code examples of generative models, which are implemented with Ten
 ## Neural Style Transfer
 | content image | style image | style transfer without variation loss | style transfer with variation loss|
 |:-------------:|:-----------:|:-------------------------------------:|:--------------------------------:|
-|<img src='img/hamster.jpg' width='200'>|<img src='img/style transfer/candy.jpg' width='200'>|![style_transfer](result/style%20transfer/img_with_vl.jpg)|
+|<img src='img/hamster.jpg' width='200'>|<img src='img/style transfer/candy.jpg' width='200'>|<img src='result/style transfer/img_with_vl.jpg' width='200'>|
 
 ## Deep Dream
-<div class="table_div">
-
 | original image | dreamt image | dreamt image with octave | dreamt image with scaling tiled and octave|
 |:--------------:|:------------:|:------------------------:|:--------------------------------:|
-|![deep_dream](img/hamster.jpg)|![deep_dream](result/deep%20dream/deep_dream.jpg)|![deep_dream](result/deep%20dream/deep_dream_octave.jpg)|![deep_dream](result/deep%20dream/deep_dream_tiled.jpg)|
-</div>
+|<img src='img/hamster.jpg' width='200'>|<img src='result/deep dream/deep_dream.jpg' width='200'>|<img src='result/deep dream/deep_dream_octave.jpg' width='200'>|<img src='result/deep dream/deep_dream_tiled.jpg' width='200'>|
 
 ## GAN
 | DCGAN | WGAN | WGAN_GP |
