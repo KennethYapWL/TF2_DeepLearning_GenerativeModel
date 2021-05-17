@@ -29,9 +29,9 @@ Dataset: Facades
 Dataset: Summer2Winter_Yosemite
 | Input Images  | Predicted Image |
 |:-------------:|:---------------:|
-|![CycleGAN](result/CycleGAN/input_img_1.jpg)|![CycleGAN](result/CycleGAN/pred_img_1.jpg)
-|![CycleGAN](result/CycleGAN/input_img_2.jpg)|![CycleGAN](result/CycleGAN/pred_img_2.jpg)
-|![CycleGAN](result/CycleGAN/input_img_3.jpg)|![CycleGAN](result/CycleGAN/pred_img_3.jpg)
+|![CycleGAN](result/CycleGAN/input_img1.jpg)|![CycleGAN](result/CycleGAN/pred_img1.jpg)
+|![CycleGAN](result/CycleGAN/input_img2.jpg)|![CycleGAN](result/CycleGAN/pred_img2.jpg)
+|![CycleGAN](result/CycleGAN/input_img3.jpg)|![CycleGAN](result/CycleGAN/pred_img3.jpg)
 
 ## Main References
 * **Neural Style Transfer**
@@ -47,3 +47,6 @@ Dataset: Summer2Winter_Yosemite
 
 * **Pix2Pix**
   * https://www.tensorflow.org/tutorials/generative/pix2pix
+
+* **Cycle GAN**
+  * https://www.tensorflow.org/tutorials/generative/cyclegan
