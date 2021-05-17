@@ -19,11 +19,9 @@ Dataset: CelebA
 
 ## Pix2Pix
 Dataset: Facades
-| Input Images  | Predicted Image |
-|:-------------:|:---------------:|
-|![Pix2Pix](result/Pix2Pix/input_img_1.jpg)|![Pix2Pix](result/Pix2Pix/pred_img_1.jpg)
-|![Pix2Pix](result/Pix2Pix/input_img_2.jpg)|![Pix2Pix](result/Pix2Pix/pred_img_2.jpg)
-|![Pix2Pix](result/Pix2Pix/input_img_3.jpg)|![Pix2Pix](result/Pix2Pix/pred_img_3.jpg)
+| Input Images  | ![Pix2Pix](result/Pix2Pix/input_img_1.jpg) | ![Pix2Pix](result/Pix2Pix/input_img_2.jpg) | ![Pix2Pix](result/Pix2Pix/input_img_3.jpg) |
+|:-------------:|:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
+|Predicted Image| ![Pix2Pix](result/Pix2Pix/pred_img_1.jpg)  | ![Pix2Pix](result/Pix2Pix/pred_img_2.jpg)  | ![Pix2Pix](result/Pix2Pix/pred_img_3.jpg)  |
 
 ## CycleGAN
 Dataset: Summer2Winter_Yosemite
