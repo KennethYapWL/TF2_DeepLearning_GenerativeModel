@@ -12,16 +12,26 @@ Here are some code examples of generative models, which are implemented with Ten
 |<img src='img/hamster.jpg' width='200'>|<img src='result/deep dream/deep_dream.jpg' width='200'>|<img src='result/deep dream/deep_dream_octave.jpg' width='200'>|<img src='result/deep dream/deep_dream_tiled.jpg' width='200'>|
 
 ## GAN
+Dataset: CelebA
 | DCGAN | WGAN | WGAN_GP |
 |:-----:|:----:|:-------:|
 |![GAN](result/DCGAN_CelebA/final%20result/image_epoch_%20500.png)|![GAN](result/WGAN_CelebA/final%20result/image_epoch_%20500.png)|![GAN](result/WGAN_GP_CelebA/final%20result/image_epoch_%20500.png)|
 
 ## Pix2Pix
+Dataset: Facades
 | Input Images  | Predicted Image |
 |:-------------:|:---------------:|
 |![Pix2Pix](result/Pix2Pix/input_img_1.jpg)|![Pix2Pix](result/Pix2Pix/pred_img_1.jpg)
 |![Pix2Pix](result/Pix2Pix/input_img_2.jpg)|![Pix2Pix](result/Pix2Pix/pred_img_2.jpg)
 |![Pix2Pix](result/Pix2Pix/input_img_3.jpg)|![Pix2Pix](result/Pix2Pix/pred_img_3.jpg)
+
+## CycleGAN
+Dataset: Summer2Winter_Yosemite
+| Input Images  | Predicted Image |
+|:-------------:|:---------------:|
+|![CycleGAN](result/CycleGAN/input_img_1.jpg)|![CycleGAN](result/CycleGAN/pred_img_1.jpg)
+|![CycleGAN](result/CycleGAN/input_img_2.jpg)|![CycleGAN](result/CycleGAN/pred_img_2.jpg)
+|![CycleGAN](result/CycleGAN/input_img_3.jpg)|![CycleGAN](result/CycleGAN/pred_img_3.jpg)
 
 ## Main References
 * **Neural Style Transfer**
